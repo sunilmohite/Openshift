@@ -1,2 +1,2 @@
 # Openshift
-This git rep contains everything about Openshift
+This git repo contains everything about Openshift
